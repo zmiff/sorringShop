@@ -1,1 +1,1 @@
-web: gunicorn sorringshop.wsgi --log-file  -
+web: gunicorn sorringShop.wsgi --log-file  -
