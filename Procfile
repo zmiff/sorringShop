@@ -1,1 +1,1 @@
-web: gunicorn sorringshop.wsgi --log-file --preload -
+web: gunicorn sorringshop.wsgi --log-file  -
